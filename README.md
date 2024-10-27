@@ -12,24 +12,12 @@ METAR-TAF-Parser
 ├─ data_loader
 │  ├─ IEM_data_load.py
 │  ├─ __init__.py
-│  └─ __pycache__
-│     ├─ IEM_data_load.cpython-39.pyc
-│     └─ __init__.cpython-39.pyc
 ├─ main.py
 ├─ settings
 │  ├─ __init__.py
-│  ├─ __pycache__
-│  │  ├─ __init__.cpython-39.pyc
-│  │  └─ config_params.cpython-39.pyc
 │  └─ config_params.py
 └─ utils
    ├─ __init__.py
-   ├─ __pycache__
-   │  ├─ __init__.cpython-39.pyc
-   │  ├─ change.cpython-39.pyc
-   │  ├─ csv_manager.cpython-39.pyc
-   │  ├─ load_airport_code.cpython-39.pyc
-   │  └─ secrets_manager.cpython-39.pyc
    ├─ change.py
    ├─ csv_manager.py
    └─ save.py
