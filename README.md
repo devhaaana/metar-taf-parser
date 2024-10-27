@@ -7,8 +7,7 @@ METAR-TAF-Parser
 ├─ README.md
 ├─ data
 │  ├─ METAR
-│  │  ├─ RKSI_METAR_20241026.csv
-│  │  └─ RKSS_METAR_20241026.csv
+│  │  ├─ RKSI_METAR_2023.csv
 │  └─ TAF
 ├─ data_loader
 │  ├─ IEM_data_load.py
